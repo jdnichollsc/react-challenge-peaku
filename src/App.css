@@ -1,0 +1,32 @@
+/*You could erase these lines*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+form {
+  height: 52vh;
+  overflow-y: scroll;
+}
+
+.email {
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 16px 18px;
+  background-position: 98% 50%;
+  cursor: auto;
+}
+
+.password {
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 16px 18px;
+  background-position: 98% 50%;
+  cursor: auto;
+}
+
+.content-card {
+  height: 160px;
+  overflow-y: scroll;
+  margin-bottom: 5px;
+}
